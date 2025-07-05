@@ -72,7 +72,7 @@ Handle errors and loading states
 
 
 📄 License
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the MIT LICENSE.
 
 🙋‍♂️ Author
 Made with ❤️ by Biniamhabtam
